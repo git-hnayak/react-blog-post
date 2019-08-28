@@ -1,0 +1,12 @@
+.new-post {
+    background-color: #ccc;
+    border: 1px solid #ccc;
+    padding: 20px;
+    color: black;
+    text-align: center;
+    box-shadow: 0 2px 2px #ccc;
+    margin: 0px auto;
+    height: 250px;
+    width: 400px;
+    margin-top: 6px;
+}
